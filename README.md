@@ -1,6 +1,6 @@
 # visions_of_peace
 
-Visuals about peace, shared humanity, and togetherness across lines of conflict.
+Art for peace: free images imagining “enemies” sharing humanity, joy, and coexistence.
 
 This project imagines people cast as enemies — Israelis and Palestinians, or even iconic rivals from animation — sharing joy, friendship, and tenderness instead of fear and hatred.
 
