@@ -26,6 +26,7 @@ You can contribute:
 If you contribute, please keep the work aligned with the values of this project: empathy, nonviolence, shared humanity, and respect for all people.
 
 ## Images
+![Together Men](images/together men new.png)
 
 ![Better Smurfs](images/better_smurfs.png)
 
